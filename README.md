@@ -1,4 +1,4 @@
-Missing function access control - D routes.py добавлено @login_required к страницам, требующим логин
+Missing function access control - В routes.py добавлено @login_required к страницам, требующим логин
 
 SQL инъекция - В routes.py изменён алгоритм поиска
 
